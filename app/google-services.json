@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "31508042625",
+    "firebase_url": "https://hosiyako-304b8.firebaseio.com",
+    "project_id": "hosiyako-304b8",
+    "storage_bucket": "hosiyako-304b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31508042625:android:e0ada67da18d4f79",
+        "android_client_info": {
+          "package_name": "bonifacekamau.com.hosiyako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31508042625-eqsrrbegjncek3h50k9h9n75npjk98vv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "31508042625-eqsrrbegjncek3h50k9h9n75npjk98vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUPur_6aHAplE8xgjcwhuVldwXkSgir0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
